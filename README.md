@@ -11,7 +11,7 @@
   2. 다량 생산되는 Object의 ObjectPooling적용
   3. Object세부 기능 구분
   
--UI
+- UI
   1. 캐릭터 선택 가능
   2. 맵 선택 가능
   
@@ -31,7 +31,7 @@
   2. Building에서 생산되는 유닛수 늘리기
   3. Particle 적용
   
-  -UI
+- UI
   1. 에셋 구매후 UI 제작
   2. 미니맵
   3. 레디얼 메뉴
